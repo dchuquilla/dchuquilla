@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dchuquilla
-- 👀 I’m interested in better ways to communicate my ideas.
-- 🌱 I’m currently learning no-code plataforms
-- 💞️ I’m looking to collaborate on RoR projects
+- 👀 I’m interested in code skills imrovements.
+- 🌱 I’m currently appliying SOLID principles to my projects.
+- 💞️ I’m looking to collaborate on RoR public projects.
 - 📫 Reachme at dario.chuquilla(at)gmail.com
 
 <!---
