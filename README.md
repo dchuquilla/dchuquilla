@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Senior Software developer with 11 years of experience. Since 2013, I've been working with Ruby on Rails, PHP, NodeJs, Postgres, MySQL, Redis, AWS, and OpenAI API. Recently, I worked at Cabal-App as an API developer in RoR. In this position, I coordinated with the developers to improve time and quality, managing to reduce the number of bugs that appeared after each release.<br>,<br>I am resilient, capable of adapting to the requirements, and a good communicator of my ideas. My experience has taken me from single projects to complex teams of 10 people. You will find me a highly valuable professional.<br>📫 Reach me at dario.chuquilla(at)gmail.com
+I am a Senior Software developer with 11 years of experience. Since 2013, I've been working with Ruby on Rails, PHP, NodeJs, Postgres, MySQL, Redis, AWS, and OpenAI API. Recently, I worked at Cabal-App as an API developer in RoR. In this position, I coordinated with the developers to improve time and quality, managing to reduce the number of bugs that appeared after each release.<br><br>I am resilient, capable of adapting to the requirements, and a good communicator of my ideas. My experience has taken me from single projects to complex teams of 10 people. You will find me a highly valuable professional.<br>📫 Reach me at dario.chuquilla(at)gmail.com
 
 
 ## 🌐 Socials:
